@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=jorgeLucasADS&color=006bed)
+![Profile views](https://komarev.com/ghpvc/?username=jorgeLucasADS&color=006bed)
 
 ## Sobre mim
 
@@ -41,7 +41,7 @@
 <br/>
 
 <a href="https://github.com/jorgeLucasADS" title="Perfil do Jorge Lucas">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeLucasADS&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jorgeLucasADS&theme=github_dark&show_icons=true" />
 </a>
 
 ## Onde me encontrar
