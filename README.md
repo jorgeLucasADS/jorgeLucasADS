@@ -2,10 +2,7 @@
 
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Banco de Dados no GRAN.
-- 💼 Trabalhando como Analista de Sistemas na VAMOS Negócios e Participações.
-- 🌱 Aprendendo mais sobre Python e Analise de Dados.
+Analista de Sistemas com foco em otimização de ERPs (Sankhya, MK) e desenvolvimento de automações (Python, N8N). Experiência prática em desenvolvimento web (WordPress, JavaScript, HTML/CSS)  e análise de redes. Atualmente cursando Banco de Dados , buscando aplicar habilidades analíticas para impulsionar a eficiência e a inovação em sistemas de TI.
 
 ## Minhas Skills
 
