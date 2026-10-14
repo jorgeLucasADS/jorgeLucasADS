@@ -44,5 +44,5 @@ Analista de Sistemas com foco em otimização de ERPs (Sankhya, MK) e desenvolvi
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/jorge-lucas-ads)](https://www.linkedin.com/in/jorge-lucas-ads)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=[https://www.linkedin.com/in/jorge-lucas-ads])
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:jorge.lucas.ads@gmail.com)](mailto:jorge.lucas.ads@gmail.com)
