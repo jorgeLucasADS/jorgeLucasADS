@@ -38,9 +38,7 @@ Analista de Sistemas com foco em otimização de ERPs (Sankhya, MK) e desenvolvi
 
 <br/>
 
-<a href="https://github.com/jorgeLucasADS" title="Perfil do Jorge Lucas">
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-</a>
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 
 ## Onde me encontrar
 
